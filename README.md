@@ -35,6 +35,10 @@ Finalização do projeto
 
 ![image](https://files.cercomp.ufg.br/weby/up/1229/o/VII_Oficina_Maker_IPElab_-_Convite.jpg)
 
+## Projeto
+
+![image](./img/Tinkercad.JPG)
+
 ## Demo
 
 ![Alt Text](./img/GIF_SOLO.gif)
